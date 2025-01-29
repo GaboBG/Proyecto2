@@ -1,0 +1,16 @@
+Pregunta 1: ¿Cuáles son los principales desafíos que enfrentan las organizaciones al adoptar Scrum y cómo pueden superarlos?
+Isayana Murillo Calderon
+Respuesta
+28 de enero 2025 
+
+Muchas personas dentro de la empresa pueden resistirse a usar Scrum porque implica modificar procesos, abandonar estructuras jerárquicas tradicionales y asumir nuevas responsabilidades. 
+Pueden solucionarlo al educar a los equipos sobre como sacarle beneficio a Scrum.
+
+Algunas empresas intentan imponer Scrum desde la dirección (top-down) sin el apoyo del equipo, o esperan que los desarrolladores adopten Scrum sin respaldo gerencial (bottom-up).
+Un cambio exitoso en Scrum debe involucrar tanto a la alta dirección como a los equipos de trabajo.
+Se debe crear un ambiente donde la retroalimentación fluya en ambas direcciones.
+
+Scrum afecta a múltiples áreas (ventas, operaciones, finanzas, marketing, etc.), lo que puede generar resistencia al cambio a quienes no están directamente involucrados en el desarrollo de software.
+Una forma de solucionarlo es asegurando que la transformación ágil involucre a toda la empresa, no solo al equipo de desarrollo.
+
+El éxito de Scrum depende de un enfoque equilibrado entre apoyo gerencial y autonomía del equipo.
