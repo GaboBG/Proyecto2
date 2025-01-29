@@ -1,0 +1,7 @@
+Pregunta 2: ¿Por qué la transición a Scrum no puede ser completamente top-down o
+bottom-up?
+
+La transición a Scrum no puede ser solo "de arriba hacia abajo" (top-down) ni solo "de abajo hacia arriba" (bottom-up) porque ambos enfoques tienen problemas. Si la dirección impone el cambio sin involucrar a los equipos, estos pueden resistirse y la transformación no funcionará bien. Por otro lado, si los equipos intentan implementarlo sin apoyo de la gerencia, chocarán con reglas y procesos que les impedirán avanzar. Para que Scrum funcione, es necesario combinar ambos enfoques: el liderazgo debe apoyar y facilitar el cambio, mientras que los equipos deben participar activamente para adaptarlo a su trabajo diario.
+
+Angie Cabrera
+28/01/25
